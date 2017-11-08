@@ -2,7 +2,7 @@
   "name": "optimizely",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gpsamson.github.io/optimizely-playgroun",
+  "homepage": "https://gpsamson.github.io/optimizely-playground",
   "dependencies": {
     "gh-pages": "^1.0.0",
     "react": "^16.0.0",
